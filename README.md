@@ -4,7 +4,7 @@ Curso intensivo de programação no estilo bootcamp da instituição de ensino R
 ## Tecnologias Utilizadas
 - HTML
 - CSS
-- JavaScrip
+- JavaScript
 - PotgreSQL
 
 ## Objetivo do repositório
