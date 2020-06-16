@@ -11,7 +11,7 @@ Um programador pode trabalhar com várias tecnologias, por isso essas tecnologia
 
 As tecnologias também devem ser objetos contendo nome e especialidade.
 
-Imprima em tela o nome e especialidade da primeira tecnologia que o usuário utiliza no seguinte formato:
+Imprime em tela o nome e especialidade da primeira tecnologia que o usuário utiliza no seguinte formato:
 ```
 A empresa Rocketseat está localizada em Rua Guilherme Gembala, 260
 ```
