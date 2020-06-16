@@ -1,4 +1,4 @@
-# Bank Transations
+# Bank Transactions
 Sistema em JavaScript básico com resultado em linha de comando.
 
 ## Intuito
