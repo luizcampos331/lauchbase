@@ -5,7 +5,7 @@ Sistema em JavaScript básico com resultado em linha de comando.
 Sistema tem o intuito de reforçar os aprendizados em programação com JavaScript.
 
 ## Objetivo
-programa que armazena um array de usuários (objetos), cada usuário tem um nome e suas tecnologias (novo array).
+Programa que armazena um array de usuários (objetos), cada usuário tem um nome e suas tecnologias (novo array).
 
 Percorre a lista de usuários com uma estrutura de repetição imprimindo em tela as informações dos usuários:
 ```
