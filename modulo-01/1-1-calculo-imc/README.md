@@ -20,10 +20,3 @@ Classificação       |IMC
 Abaixo do peso ideal|Menor que 18,5
 Peso Ideal          |18,5 a 29,9
 Acima do peso       |Maior que 29,9
-
-## Como Usar
-- Escolha uma pasta de sua preferencia atravez do terminal de linha de comando
-- Rode o comando: git clone https://github.com/luizcampos331/calculo-imc.git
-
-## Licença
-[MIT](https://choosealicense.com/licenses/mit/)
