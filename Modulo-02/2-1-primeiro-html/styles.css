@@ -1,4 +1,9 @@
 @import "https://fonts.googleapis.com/css2?family=Roboto&display=swap";
+
+:root {
+  --color-purple: rgb(113, 89, 193);
+}
+
 * {
   /*Margin, preenchimento e bordas da página toda*/
   margin: 0;
@@ -9,10 +14,13 @@
 body {
   background: #282a36;
   font-family: 'Roboto', sans-serif;
+  color: white;
 }
 
 header {
   padding: 30px;
+  border-bottom: 1px solid #333;
+  background: rgba(0, 0, 0, 0.1);
 }
 
 header div {
@@ -27,6 +35,13 @@ header div a {
 }
 
 header div a:hover {
-  color: rgb(113, 89, 193);
+  color: var(--color-purple);
   transition: color 200ms;
+}
+
+#page {
+  color: var(--color-purple);
+  font-size: 20px;
+  margin: 0 30px;
+  text-decoration: none;
 }
