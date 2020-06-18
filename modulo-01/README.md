@@ -5,4 +5,10 @@ Primeiros passos no JavaScript
 Realização de desafios para dar os primeiros passos no JavaScript
 
 ## Desafios
-- Primeiro HTML (Cabeçalho com 3 links e favicon)
+- Calculo de Aposentadoria
+- Calculo de IMC
+- Utilizando Objetos
+- Utilizando Vetores
+- Utilizando estruturas de repetição (for)
+- Utilizando funções (function)
+- Transações bancárias
