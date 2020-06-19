@@ -18,3 +18,9 @@ Sistema tem o intuito de reforçar os aprendizados em HTML e CSS
 2 - Quarto link
 - Link para página sobre
 - Foto, descrção, tecnologias e redes sociais da Rocketseat
+
+3 - Quinto link
+- Link para página de conteúdos
+- Cards para cada curso da rocketseat
+- Os cards abrem um modal para as informações do curso
+- O modal pode ser maximizado
